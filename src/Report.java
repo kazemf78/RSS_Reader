@@ -1,3 +1,4 @@
+
 import java.net.URL;
 
 public class Report {
@@ -34,4 +35,3 @@ public class Report {
     public void setDescription(String description) {
         this.description = description;
     }
-}

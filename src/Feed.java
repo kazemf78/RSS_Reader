@@ -1,3 +1,4 @@
+
 import java.net.URL;
 
 public class Feed {
@@ -24,4 +25,5 @@ public class Feed {
     public void setUrl(URL url) {
         this.url = url;
     }
+
 }
